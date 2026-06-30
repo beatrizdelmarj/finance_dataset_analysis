@@ -55,10 +55,8 @@ print(payments.describe())
 print(invoices[invoices['amount'].isnull()].head(10))
 print(invoices[invoices['amount'].isnull()][['invoice_id', 'date', 'amount']].head(10))
 
-#Este codigo muestra que hay 211 lineas corruptas
-filas_corruptas = invoices[invoices['invoice_id'].str.contains(',', na=False)]
-print(f"Filas corruptas: {len(filas_corruptas)}")
-print(filas_corruptas['invoice_id'].head(5))
-# DECISION: 211 rows have comma-separated data inside invoice_id — CSV parsing error.
-# These rows are unrecoverable without the original source system.
-# Action: drop before cleaning. This reduces the dataset from 808 to ~597 rows.
+#This code shows that there are 211 corrupt lines.
+corrupt_files = invoices[invoices['invoice_id'].str.contains(',', na=False)]
+print(f"Filas corruptas: {len(corrupt_files)}")
+print(corrupt_files['invoice_id'].head(5))
+# DECISION: 211 rows have comma-separated data inside invoice_id. CSV parsing error.
