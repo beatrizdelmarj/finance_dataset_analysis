@@ -1,0 +1,809 @@
+invoice_id,date,vendor,category,amount,status
+F-2025-0540,13/06/2025,Internet Rapido SA,SERVICIOS,15043100,anulada
+F-2025-0604,2025-07-03,Internet Rapido SA,Servicios,14079700,pendiente
+F-2025-0510,07/07/2025,CAFE DE LA MONTANA,Cafeteria,$2.055.100,pagada
+F-2025-0322,2025-06-17,Aseo Total SAS,Mantenimiento,,
+"F-2025-0200,20/09/2025,Internet Rapido SA,Servicios,""10,041,000"",PAGADA",,,,,
+F-2025-0637,2025-03-08,Internet Rapido SA,Servicios,11052100,Pendiente
+F-2025-0190,2025-10-20,Energia de Bogota  ,Servicios,813000,pendiente
+F-2025-0677,2025-05-25,aseo total sas,Mantenimiento,187000,pendiente
+F-2025-0641,08/12/2025,Aseo Total SAS,Mantenimiento,$216.000,PAGADA
+F-2025-0588,27-7-25,INTERNET RAPIDO SA,Servicios,782000,anulada
+F-2025-0519,05/01/2025,TecnoSoluciones Ltda,Tecnologia,$12.070.400,PAGADA
+F-2025-0479,2-11-25,distribuidora el sol sas,INSUMOS,532000,pagada
+F-2025-0712,21/05/2025,Publicidad Creativa,Marketing,844000,pagada
+F-2025-0450,27/11/2025,energia de bogota,Servicios,149000,pagada
+F-2025-0047,1-10-25,TRANSPORTES ANDINOS,Logistica,$ 670000,Pendiente
+F-2025-0302,2025-08-11,Dist. El Sol SAS,INSUMOS,15016000,pendiente
+F-2025-0375,2025-02-15,Energia de Bogota,Servicios,11054600,pagada
+F-2025-0696,11/12/2025,Distribuidora El Sol SAS,Insumos,$703.000,pagada
+F-2025-0066,2025-08-21,Energia de Bogota,Servicios,1067300,pagada
+F-2025-0354,01/09/2025,Transportes Andinos,Logistica,5079800,pendiente
+F-2025-0609,2025-06-26,energia de bogota,Servicios,407000 COP,pagada
+F-2025-0135,18/06/2025,Aseo Total SAS,Mantenimiento,,pagada
+F-2025-0621,20/04/2025,papeleria central,Oficina,454000 COP,PAGADA
+F-2025-0042,24/12/2025,FERRETERIA EL TORNILLO,Mantenimiento,6030500,pendiente
+F-2025-0646,2025-05-26,Internet Rapido SA,Servicios,$489.000,pendiente
+"F-2025-0060,""May 26, 2025"",TECNOSOLUCIONES LTDA,Tecnologia,4029500 COP,pendiente",,,,,
+F-2025-0356,09/10/2025,Papelería Central,Oficina,$565.000,pendiente
+F-2025-0663,2025-10-04,Publicidad Creativa,Marketing,3092100,pagada
+F-2025-0289,6-4-25,Aseo Total S.A.S,Mantenimiento,$494.000,pendiente
+F-2025-0087,2025-11-12,Ferreteria El Tornillo,Mantenimiento,,anulada
+"F-2025-0318,""Nov 20, 2025"",Distribuidora El Sol SAS,Insumos,""388,000"",",,,,,
+"F-2025-0050,""Aug 14, 2025"",TRANSPORTES ANDINOS,Logistica,3075100,pendiente",,,,,
+"F-2025-0242,""Feb 6, 2025"",Papeleria Central,Oficina,""598,000"",pagada",,,,,
+F-2025-0697,2025-12-13,Aseo Total SAS,Mantenimiento,15096400,
+"F-2025-0137,""Oct 6, 2025"",Ferreteria El Tornillo,Mantenimiento,$11.052.900,pagada",,,,,
+"F-2025-0645,2025-03-26,Energia de Bogota,Servicios,""10,090,200"",PAGADA",,,,,
+F-2025-0618,2025-11-17,Internet Rapido SA,SERVICIOS,741000,pagada
+F-2025-0265,08/10/2025,transportes andinos,Logistica,820000 COP,Pendiente
+F-2025-0442,07/02/2025,Papeleria Central,Oficina,3016100,pendiente
+"F-2025-0162,2025-12-19,DISTRIBUIDORA EL SOL SAS,Insumos,""7,024,100"",pagada",,,,,
+"F-2025-0747,""Sep 12, 2025"",Transportes Andinos,Logistica,""7,056,300"",Pendiente",,,,,
+F-2025-0105,17/02/2025,Energia de Bogota,Servicios,7089100,PAGADA
+F-2025-0186,2025-02-13,CAFE DE LA MONTANA,Cafeteria,357000,pagada
+F-2025-0238,2025-12-24,Cafe de la Montana,,,Pendiente
+"F-2025-0579,""Feb 14, 2025"",Energia de Bogota,Servicios,$2.075.800,anulada",,,,,
+F-2025-0379,09/08/2025,Publicidad Creativa,Marketing,242000,pagada
+F-2025-0497,02/12/2025,Publicidad Creativa,Marketing,820000,pagada
+F-2025-0376,25/08/2025,Distribuidora El Sol SAS,INSUMOS,$585.000,pendiente
+"F-2025-0602,""Jun 8, 2025"",Aseo Total SAS,MANTENIMIENTO,$176.000,",,,,,
+F-2025-0314,04/08/2025,TRANSPORTES ANDINOS,Logistica,$12.080.300,pendiente
+F-2025-0675,,Papeleria Central,Oficina,$1.062.300,pagada
+F-2025-0635,26/10/2025,Energia de Bogota,Servicios,5087000,Pendiente
+"F-2025-0694,""Jan 15, 2025"",Aseo Total SAS,Mantenimiento,731000 COP,pagada",,,,,
+"F-2025-0002,2025-08-19,energia de bogota,Servicios,""666,000"",pagada",,,,,
+F-2025-0405,2025-11-14,Cafe de la Montana,CAFETERIA,2027200,pagada
+"F-2025-0613,""Aug 3, 2025"",ENERGIA DE BOGOTA,Servicios,$234.000,pagada",,,,,
+F-2025-0342,20-7-25,TRANSPORTES ANDINOS,Logistica,694000 COP,pendiente
+F-2025-0293,2025-04-25,Energia de Bogota,Servicios,10012000,Pendiente
+F-2025-0707,2025-01-18,Transportes Andinos,Logistica,$12.040.100,PAGADA
+F-2025-0340,2025-05-07,Internet Rapido SA,Servicios,$56.000,pagada
+F-2025-0030,12/05/2025,Cafe de la Montana,Cafeteria,,
+F-2025-0495,24/10/2025,Café de la Montana,Cafeteria,$2.001.600,pagada
+F-2025-0359,16/04/2025,Ferreteria El Tornillo,Mantenimiento,6022300,pendiente
+F-2025-0073,03/03/2025,Papelería Central,Oficina,2053800,Pendiente
+F-2025-0525,25/09/2025,Distribuidora El Sol SAS,Insumos,$3.086.600,pagada
+"F-2025-0372,""Jan 1, 2025"",Papeleria Central,Oficina,,pagada",,,,,
+F-2025-0668,2025-04-23,PUBLICIDAD CREATIVA,Marketing,222000,pagada
+"F-2025-0211,25/03/2025,Internet Rapido SA  ,Servicios,""81,000"",",,,,,
+F-2025-0097,28/07/2025,Cafe de la Montana  ,Cafeteria,$6.086.500,
+F-2025-0249,2025-03-01,Ferreteria El Tornillo,Mantenimiento,13049600 COP,pendiente
+F-2025-0705,,Transportes Andinos  ,Logistica,$665.000,pendiente
+F-2025-0445,2025-08-16,Internet Rapido SA,Servicios,2083200 COP,pendiente
+F-2025-0499,17/05/2025,Energia de Bogota,Servicios,166000,PAGADA
+"F-2025-0429,""Jun 13, 2025"",Transportes Andinos  ,Logistica,12059200 COP,pagada",,,,,
+F-2025-0001,03/09/2025,Papeleria Central,Oficina,75000,pendiente
+"F-2025-0236,2025-08-01,Publicidad Creativa,MARKETING,""15,047,600"",pendiente",,,,,
+F-2025-0147,05/01/2025,energia de bogota,SERVICIOS,$424.000,pagada
+F-2025-0037,2025-02-25,Publicidad Creativa,,$ 556000,
+"F-2025-0045,,Publicidad Creativa,MARKETING,""13,097,400"",pagada",,,,,
+"F-2025-0461,""May 9, 2025"",TecnoSoluciones Ltda,Tecnologia,546000,pagada",,,,,
+F-2025-0142,08/06/2025,Aseo Total SAS,Mantenimiento,14035300,pagada
+"F-2025-0504,""May 25, 2025"",Ferreteria El Tornillo,Mantenimiento,10013500,pagada",,,,,
+F-2025-0580,03/03/2025,FERRETERIA EL TORNILLO,Mantenimiento,13027100 COP,pagada
+"F-2025-0759,""Feb 17, 2025"",Distribuidora El Sol SAS,,606000,pendiente",,,,,
+F-2025-0486,2025-08-16,CAFE DE LA MONTANA,Cafeteria,333000,PAGADA
+F-2025-0600,2025-09-18,Publicidad Creativa,Marketing,$792.000,pagada
+F-2025-0501,2025-02-06,CAFE DE LA MONTANA,Cafeteria,$2.008.200,pendiente
+F-2025-0051,01/06/2025,Papeleria Central,Oficina,$335.000,PAGADA
+F-2025-0284,13/11/2025,Papeleria Central,Oficina,531000 COP,pagada
+F-2025-0627,20/11/2025,TecnoSoluciones Ltda,Tecnologia,632000,pagada
+F-2025-0638,10/08/2025,Energia de Bogota,Servicios,,
+"F-2025-0180,09/01/2025,ASEO TOTAL SAS,Mantenimiento,""6,032,000"",pendiente",,,,,
+F-2025-0459,17-8-25,ENERGIA DE BOGOTA,SERVICIOS,867000,PAGADA
+"F-2025-0013,07/12/2025,TecnoSoluciones Ltda,Tecnologia,""14,062,100"",PAGADA",,,,,
+F-2025-0404,07/09/2025,TECNOSOLUCIONES LTDA,Tecnologia,7051300,
+F-2025-0300,19/12/2025,Distribuidora El Sol SAS,Insumos,$ 5067000,PAGADA
+"F-2025-0679,""Sep 27, 2025"",Papeleria Central,Oficina,$247.000,Pendiente",,,,,
+"F-2025-0035,06/12/2025,Internet Rapido SA,Servicios,""11,032,900"",PAGADA",,,,,
+F-2025-0074,28/08/2025,PAPELERIA CENTRAL,Oficina,14069000,pendiente
+F-2025-0154,2025-03-10,TecnoSoluciones Ltda,Tecnologia,10069200,anulada
+F-2025-0622,2025-08-20,TecnoSoluciones LTDA,Tecnologia,12046300,pagada
+F-2025-0104,2025-12-12,papeleria central,Oficina,1098900,Pendiente
+F-2025-0740,17/12/2025,Cafe de la Montana,Cafeteria,732000 COP,pagada
+F-2025-0278,13/10/2025,Publicidad Creativa,Marketing,,PAGADA
+"F-2025-0777,24/09/2025,Cafe de la Montana,Cafeteria,""270,000"",anulada",,,,,
+F-2025-0633,15/11/2025,Aseo Total SAS,Mantenimiento,582000,pagada
+F-2025-0535,18/03/2025,Publicidad Creativa  ,MARKETING,7046000 COP,pagada
+F-2025-0235,22-9-25,Aseo Total SAS,Mantenimiento,7093700 COP,pagada
+"F-2025-0335,""Oct 24, 2025"",Distribuidora El Sol SAS,Insumos,$5.055.600,pagada",,,,,
+F-2025-0194,2025-03-09,Publicidad Creativa,Marketing,847000,Pendiente
+"F-2025-0775,2025-07-24,TecnoSoluciones Ltda,Tecnologia,""6,076,900"",PAGADA",,,,,
+"F-2025-0323,2025-07-27,Energia de Bogota,Servicios,""57,000"",Pendiente",,,,,
+F-2025-0078,28/07/2025,Internet Rapido SA,Servicios,$11.098.500,pendiente
+F-2025-0145,2025-07-12,TecnoSoluciones Ltda,Tecnologia,$599.000,PAGADA
+F-2025-0727,03/02/2025,TecnoSoluciones Ltda,TECNOLOGIA,14008900,pagada
+F-2025-0077,10/08/2025,Ferreteria El Tornillo,Mantenimiento,$3.023.700,PAGADA
+F-2025-0667,2025-03-27,Energia de Bogota,Servicios,4073000,
+"F-2025-0206,""Oct 4, 2025"",Publicidad Creativa,Marketing,54000,pendiente",,,,,
+F-2025-0121,20/12/2025,Ferreteria El Tornillo,Mantenimiento,509000,pendiente
+"F-2025-0669,""Jan 2, 2025"",Energia de Bogota  ,SERVICIOS,$ 706000,PAGADA",,,,,
+F-2025-0260,03/12/2025,TecnoSoluciones LTDA,Tecnologia,70000,anulada
+F-2025-0139,06/03/2025,TecnoSoluciones Ltda  ,Tecnologia,$178.000,pagada
+F-2025-0699,2025-02-04,Ferreteria El Tornillo  ,Mantenimiento,728000,PAGADA
+F-2025-0174,21/06/2025,TecnoSoluciones Ltda  ,Tecnologia,331000,Pendiente
+F-2025-0635,26/10/2025,Energia de Bogota,Servicios,5087000,Pendiente
+"F-2025-0732,""Nov 17, 2025"",TecnoSoluciones Ltda,Tecnologia,$1.075.500,anulada",,,,,
+F-2025-0007,2025-10-23,CAFE DE LA MONTANA,Cafeteria,1082400,anulada
+"F-2025-0330,16-10-25,Ferreteria El Tornillo,Mantenimiento,""9,007,400"",pendiente",,,,,
+F-2025-0721,2025-10-08,Internet Rapido SA,Servicios,217000,
+"F-2025-0086,14-10-25,Energia de Bogota,Servicios,""479,000"",pendiente",,,,,
+"F-2025-0449,""Dec 19, 2025"",Internet Rapido SA,Servicios,$856.000,PAGADA",,,,,
+F-2025-0014,2025-04-19,Ferreteria El Tornillo,Mantenimiento,$579.000,pendiente
+F-2025-0389,25/01/2025,Transportes Andinos,Logistica,9015800,pagada
+"F-2025-0468,""Oct 22, 2025"",Cafe de la Montana,CAFETERIA,$792.000,pagada",,,,,
+F-2025-0573,2025-10-13,Cafe de la Montana,,13065900,Pendiente
+"F-2025-0426,""Jan 20, 2025"",Papeleria Central,Oficina,$4.000.300,anulada",,,,,
+F-2025-0695,20/08/2025,distribuidora el sol sas,Insumos,$2.088.900,pendiente
+"F-2025-0258,2025-02-24,Aseo Total SAS,Mantenimiento,""507,000"",pagada",,,,,
+F-2025-0475,2025-11-07,Aseo Total SAS,Mantenimiento,14098300,pendiente
+"F-2025-0623,""Dec 16, 2025"",Internet Rapido SA,Servicios,""537,000"",pagada",,,,,
+"F-2025-0320,""Aug 18, 2025"",Café de la Montana,Cafeteria,6033900,PAGADA",,,,,
+F-2025-0583,2025-09-07,Cafe de la Montana  ,Cafeteria,77000,Pendiente
+F-2025-0748,2-5-25,Papeleria Central,Oficina,,pendiente
+"F-2025-0243,""May 9, 2025"",Cafe de la Montana,CAFETERIA,$ 385000,anulada",,,,,
+F-2025-0214,12/10/2025,INTERNET RAPIDO SA,Servicios,697000,pendiente
+F-2025-0553,12-12-25,DISTRIBUIDORA EL SOL SAS,Insumos,$757.000,pendiente
+F-2025-0195,20/08/2025,TecnoSoluciones Ltda,Tecnologia,481000,pagada
+"F-2025-0518,""Feb 20, 2025"",Distribuidora El Sol SAS,Insumos,346000 COP,pendiente",,,,,
+"F-2025-0316,""Nov 12, 2025"",TecnoSoluciones Ltda,Tecnologia,$10.088.900,pendiente",,,,,
+F-2025-0599,2025-07-25,Energia de Bogota,Servicios,13063300,PAGADA
+F-2025-0069,2025-03-28,Cafe de la Montana  ,Cafeteria,9014800 COP,PAGADA
+"F-2025-0571,2025-06-05,Aseo Total SAS,Mantenimiento,""76,000"",anulada",,,,,
+"F-2025-0244,""Jan 2, 2025"",Energia de Bogota,Servicios,816000,Pendiente",,,,,
+F-2025-0648,16/12/2025,ASEO TOTAL SAS,Mantenimiento,$560.000,pagada
+F-2025-0226,2025-04-16,Internet Rapido SA,,$4.076.500,pagada
+F-2025-0546,2025-05-21,PUBLICIDAD CREATIVA,Marketing,470000,pendiente
+F-2025-0255,2025-08-21,TecnoSoluciones Ltda  ,Tecnologia,$380.000,PAGADA
+F-2025-0119,2025-07-02,Transportes Andinos,Logistica,900000,pagada
+F-2025-0446,03/01/2025,Aseo Total SAS,Mantenimiento,$3.071.600,pagada
+F-2025-0378,2025-12-22,TECNOSOLUCIONES LTDA,Tecnologia,$131.000,pendiente
+"F-2025-0225,""Dec 1, 2025"",CAFE DE LA MONTANA,Cafeteria,333000,",,,,,
+F-2025-0458,08/02/2025,Transportes Andinos  ,Logistica,,pagada
+"F-2025-0711,2025-01-04,Papeleria Central,Oficina,""11,034,600"",pagada",,,,,
+"F-2025-0346,2025-09-14,distribuidora el sol sas,INSUMOS,""11,066,400"",Pendiente",,,,,
+F-2025-0742,2025-11-02,TecnoSoluciones Ltda,Tecnologia,766000,PAGADA
+F-2025-0533,2025-10-22,Distribuidora El Sol SAS,,$151.000,pagada
+"F-2025-0365,""Sep 14, 2025"",Internet Rapido SA,Servicios,184000 COP,pagada",,,,,
+F-2025-0396,,Publicidad Creativa,Marketing,566000,Pendiente
+F-2025-0511,,aseo total sas,Mantenimiento,3073300,anulada
+F-2025-0514,10/10/2025,Cafe de la Montana  ,,14039000,pagada
+F-2025-0044,2025-03-02,Publicidad Creativa,Marketing,$656.000,PAGADA
+"F-2025-0345,""Sep 17, 2025"",Publicidad Creativa,Marketing,""896,000"",",,,,,
+"F-2025-0473,2025-08-16,tecnosoluciones ltda,Tecnologia,""12,033,700"",pagada",,,,,
+F-2025-0094,2025-02-11,PUBLICIDAD CREATIVA,Marketing,15023300,pagada
+"F-2025-0261,14/04/2025,Distribuidora El Sol SAS  ,Insumos,""11,016,800"",pendiente",,,,,
+F-2025-0350,2025-12-08,TECNOSOLUCIONES LTDA,Tecnologia,10035200,pendiente
+"F-2025-0028,2025-07-01,Publicidad Creativa,Marketing,""685,000"",Pendiente",,,,,
+"F-2025-0386,12/01/2025,Ferreteria El Tornillo  ,Mantenimiento,""11,063,300"",pagada",,,,,
+F-2025-0502,2025-06-14,ENERGIA DE BOGOTA,Servicios,1030000,pagada
+"F-2025-0653,""Jul 13, 2025"",Cafe de la Montana  ,Cafeteria,1001410000,",,,,,
+F-2025-0643,28/06/2025,Distribuidora El Sol SAS,Insumos,4020200,pendiente
+F-2025-0617,14/01/2025,Energia de Bogota,SERVICIOS,444000,
+"F-2025-0545,12/04/2025,TecnoSoluciones Ltda,TECNOLOGIA,""9,082,800"",pendiente",,,,,
+F-2025-0576,08/11/2025,Aseo Total SAS  ,Mantenimiento,$ 3044400,
+F-2025-0227,18/06/2025,Energia de Bogota  ,Servicios,$ 6095600,pagada
+F-2025-0689,2025-07-21,Distribuidora El Sol SAS,Insumos,222000,pagada
+F-2025-0273,23/05/2025,Ferreteria El Tornillo,Mantenimiento,9088800 COP,pagada
+F-2025-0519,05/01/2025,TecnoSoluciones Ltda,Tecnologia,$12.070.400,PAGADA
+F-2025-0264,2025-01-09,Papeleria Central,Oficina,707000 COP,pagada
+"F-2025-0125,""Mar 27, 2025"",Internet Rapido SA,Servicios,""802,000"",pagada",,,,,
+F-2025-0614,2025-05-03,Ferreteria El Tornillo,Mantenimiento,73000,pagada
+"F-2025-0427,""Sep 27, 2025"",Ferreteria El Tornillo,Mantenimiento,469000,PAGADA",,,,,
+F-2025-0601,04/09/2025,distribuidora el sol sas,Insumos,9060600,
+F-2025-0569,2025-02-12,aseo total sas,Mantenimiento,9049600,pagada
+"F-2025-0234,""Jan 18, 2025"",Cafe de la Montana  ,Cafeteria,""8,037,200"",pendiente",,,,,
+F-2025-0682,13/05/2025,Publicidad Creativa,Marketing,13092800,anulada
+F-2025-0055,2025-06-06,Cafe de la Montana  ,Cafeteria,8028300,pagada
+F-2025-0377,06/04/2025,INTERNET RAPIDO SA,Servicios,13000700 COP,pendiente
+F-2025-0127,2025-11-11,Ferreteria El Tornillo  ,MANTENIMIENTO,$309.000,Pendiente
+F-2025-0606,28/09/2025,PUBLICIDAD CREATIVA,Marketing,$893.000,pagada
+F-2025-0020,02/01/2025,Cafe de la Montana,Cafeteria,353000 COP,pagada
+F-2025-0631,2025-04-07,Internet Rapido SA,SERVICIOS,$877.000,pagada
+"F-2025-0279,2025-05-21,Energia de Bogota,SERVICIOS,""10,062,300"",pendiente",,,,,
+F-2025-0678,2025-07-17,Cafe de la Montana,Cafeteria,602000,anulada
+F-2025-0469,04/03/2025,Papeleria Central,Oficina,$138.000,pagada
+"F-2025-0756,2025-11-13,Publicidad Creativa,Marketing,""753,000"",pagada",,,,,
+F-2025-0734,2025-11-09,Papeleria Central,OFICINA,591000,Pendiente
+"F-2025-0341,""Mar 21, 2025"",Cafe de la Montana,Cafeteria,474000,pagada",,,,,
+F-2025-0091,2025-11-17,ASEO TOTAL SAS,MANTENIMIENTO,10011100,anulada
+F-2025-0022,2025-04-09,INTERNET RAPIDO SA,Servicios,7067300,PAGADA
+F-2025-0183,07/01/2025,Distribuidora El Sol SAS,Insumos,$832.000,anulada
+F-2025-0076,2025-03-06,TECNOSOLUCIONES LTDA,Tecnologia,417000,pendiente
+F-2025-0317,2025-07-02,TECNOSOLUCIONES LTDA,Tecnologia,509000,pendiente
+F-2025-0307,2025-04-23,TecnoSoluciones Ltda  ,Tecnologia,675000,pagada
+F-2025-0327,2025-05-21,FERRETERIA EL TORNILLO,Mantenimiento,$ 210000,PAGADA
+F-2025-0058,28/05/2025,Papeleria Central,Oficina,$621.000,pagada
+F-2025-0124,2025-12-01,Energia de Bogota,Servicios,7089400,pagada
+"F-2025-0188,1-6-25,TECNOSOLUCIONES LTDA,TECNOLOGIA,""15,007,600"",Pendiente",,,,,
+F-2025-0349,26/09/2025,Energia de Bogota,Servicios,$10.037.400,anulada
+"F-2025-0491,""Mar 26, 2025"",Papelería Central,Oficina,$ 526000,",,,,,
+"F-2025-0304,""Nov 10, 2025"",PAPELERIA CENTRAL,Oficina,""463,000"",anulada",,,,,
+F-2025-0410,11/02/2025,PAPELERIA CENTRAL,Oficina,5088800,pendiente
+F-2025-0170,22/08/2025,Publicidad Creativa,Marketing,591000,pendiente
+F-2025-0123,2025-09-12,Publicidad Creativa,Marketing,$51.000,
+F-2025-0528,2025-12-02,Papeleria Central,Oficina,527000,anulada
+F-2025-0544,23/11/2025,Publicidad Creativa,Marketing,$5.063.900,anulada
+F-2025-0257,2025-06-24,Transportes Andinos,Logistica,666000,pagada
+F-2025-0542,24-10-25,Energia de Bogota  ,Servicios,$269.000,PAGADA
+"F-2025-0032,22/09/2025,Papeleria Central  ,OFICINA,""444,000"",PAGADA",,,,,
+F-2025-0172,2025-04-24,Cafe de la Montana,Cafeteria,$261.000,pagada
+F-2025-0741,2025-01-20,cafe de la montana,Cafeteria,173000,
+F-2025-0333,2025-02-27,ferreteria el tornillo,Mantenimiento,6079300 COP,pendiente
+"F-2025-0411,13/08/2025,Energia de Bogota,Servicios,""518,000"",PAGADA",,,,,
+F-2025-0597,,Transportes Andinos  ,Logistica,494000 COP,pendiente
+F-2025-0770,2025-07-27,TecnoSoluciones Ltda,Tecnologia,$163.000,pendiente
+F-2025-0537,2025-05-11,ENERGIA DE BOGOTA,Servicios,7026900,PAGADA
+F-2025-0245,2025-01-03,ASEO TOTAL SAS,Mantenimiento,752000 COP,pagada
+F-2025-0771,,Internet Rapido SA,Servicios,563000,pagada
+F-2025-0369,10/10/2025,Aseo Total SAS,MANTENIMIENTO,11052200 COP,PAGADA
+F-2025-0221,2025-04-16,DISTRIBUIDORA EL SOL SAS,INSUMOS,$455.000,anulada
+F-2025-0524,2025-02-20,Ferreteria El Tornillo,Mantenimiento,171000,PAGADA
+F-2025-0608,2025-05-10,tecnosoluciones ltda,TECNOLOGIA,$351.000,pagada
+F-2025-0031,2025-02-20,Aseo Total SAS  ,Mantenimiento,2089800,
+F-2025-0607,2025-10-10,Transportes Andinos,Logistica,622000,PAGADA
+"F-2025-0759,""Feb 17, 2025"",Distribuidora El Sol SAS,,606000,pendiente",,,,,
+F-2025-0418,2025-05-14,FERRETERIA EL TORNILLO,Mantenimiento,535000,pendiente
+F-2025-0347,10/02/2025,Aseo Total SAS,Mantenimiento,653000,pagada
+F-2025-0044,2025-03-02,Publicidad Creativa,Marketing,$656.000,PAGADA
+F-2025-0640,28/06/2025,Papelería Central,Oficina,$4.068.300,Pendiente
+"F-2025-0070,""Nov 16, 2025"",Energia de Bogota,Servicios,$14.000.200,PAGADA",,,,,
+F-2025-0755,2025-08-24,Ferreteria El Tornillo,Mantenimiento,8018500,pagada
+F-2025-0208,2025-06-23,TecnoSoluciones Ltda,Tecnologia,$679.000,Pendiente
+"F-2025-0203,2025-09-16,Publicidad Creativa,Marketing,""137,000"",anulada",,,,,
+F-2025-0547,14/07/2025,Papeleria Central,Oficina,203000,pagada
+F-2025-0177,22/12/2025,Distribuidora El Sol SAS,Insumos,324000 COP,PAGADA
+"F-2025-0665,2025-01-15,PAPELERIA CENTRAL,Oficina,""13,079,800"",anulada",,,,,
+F-2025-0136,27/07/2025,Internet Rapido SA,Servicios,2031600,pagada
+F-2025-0339,2025-09-13,aseo total sas,Mantenimiento,$651.000,anulada
+F-2025-0156,2025-11-25,Energia de Bogota,Servicios,,pagada
+"F-2025-0276,2025-04-21,Papeleria Central,Oficina,""341,000"",",,,,,
+F-2025-0057,2025-01-05,TECNOSOLUCIONES LTDA,Tecnologia,539000,pendiente
+"F-2025-0023,""Jun 3, 2025"",Papeleria Central,Oficina,59000,",,,,,
+F-2025-0133,2025-08-07,tecnosoluciones ltda,Tecnologia,$5.072.000,anulada
+"F-2025-0550,""Jun 11, 2025"",Papeleria Central  ,Oficina,11084800 COP,pendiente",,,,,
+"F-2025-0433,2025-02-10,Publicidad Creativa,Marketing,""96,000"",pagada",,,,,
+F-2025-0723,04/08/2025,Papeleria Central  ,Oficina,851000 COP,
+F-2025-0098,2025-06-12,distribuidora el sol sas,Insumos,$15.067.300,Pendiente
+F-2025-0046,19-2-25,Distribuidora El Sol SAS,Insumos,303000,PAGADA
+F-2025-0503,16/06/2025,DISTRIBUIDORA EL SOL SAS,Insumos,4085400 COP,anulada
+F-2025-0116,08/08/2025,Ferreteria El Tornillo,Mantenimiento,94000 COP,anulada
+F-2025-0714,2025-09-06,Publicidad Creativa  ,Marketing,355000,
+"F-2025-0374,06/09/2025,Aseo Total SAS,Mantenimiento,""8,099,800"",Pendiente",,,,,
+"F-2025-0054,04/06/2025,Aseo Total SAS,Mantenimiento,""12,046,400"",pendiente",,,,,
+F-2025-0072,16-3-25,Ferreteria El Tornillo,Mantenimiento,,PAGADA
+"F-2025-0715,""Feb 6, 2025"",ENERGIA DE BOGOTA,Servicios,550000,anulada",,,,,
+F-2025-0765,2025-04-13,Cafe de la Montana  ,Cafeteria,$7.056.200,pendiente
+"F-2025-0115,2025-10-13,TecnoSoluciones Ltda,Tecnologia,""857,000"",pagada",,,,,
+"F-2025-0661,""Jul 20, 2025"",Energia de Bogota,Servicios,$ 11046900,anulada",,,,,
+"F-2025-0343,""Oct 5, 2025"",papeleria central,Oficina,8062100,",,,,,
+F-2025-0416,,FERRETERIA EL TORNILLO,Mantenimiento,$15.084.100,pendiente
+"F-2025-0362,2025-01-17,cafe de la montana,Cafeteria,""818,000"",anulada",,,,,
+"F-2025-0287,2025-09-07,Publicidad Creativa,Marketing,""54,000"",pendiente",,,,,
+F-2025-0233,2025-12-04,Ferreteria El Tornillo,Mantenimiento,630000,pagada
+F-2025-0489,19/08/2025,Cafe de la Montana,Cafeteria,4075500,anulada
+"F-2025-0420,08/01/2025,Aseo Total SAS,Mantenimiento,""453,000"",",,,,,
+F-2025-0025,9-8-25,tecnosoluciones ltda,Tecnologia,10021500,Pendiente
+F-2025-0329,2025-04-04,Cafe de la Montana  ,Cafeteria,472000 COP,
+F-2025-0605,19/05/2025,Ferreteria El Tornillo,Mantenimiento,$6.069.300,anulada
+F-2025-0285,2025-02-16,Transportes Andinos,Logistica,6041900,pagada
+"F-2025-0041,13-7-25,CAFE DE LA MONTANA,Cafeteria,""7,041,700"",Pendiente",,,,,
+"F-2025-0428,06/03/2025,DISTRIBUIDORA EL SOL SAS,Insumos,""14,003,300"",",,,,,
+F-2025-0294,2025-04-01,TecnoSoluciones Ltda,Tecnologia,1056100,anulada
+"F-2025-0436,""Mar 9, 2025"",Energia de Bogota,Servicios,4059100,",,,,,
+"F-2025-0566,""Mar 16, 2025"",ferreteria el tornillo,MANTENIMIENTO,""2,032,400"",Pendiente",,,,,
+F-2025-0691,2025-07-04,Ferreteria El Tornillo,Mantenimiento,$691.000,anulada
+"F-2025-0513,06/07/2025,Ferreteria El Tornillo  ,Mantenimiento,""6,006,700"",pagada",,,,,
+F-2025-0049,2025-08-04,Energia de Bogota,Servicios,488000 COP,anulada
+F-2025-0241,2025-10-04,Aseo Total SAS,Mantenimiento,$375.000,Pendiente
+F-2025-0036,16/04/2025,Papeleria Central  ,OFICINA,$13.024.000,pendiente
+"F-2025-0636,01/02/2025,Internet Rapido SA,Servicios,""684,000"",pendiente",,,,,
+"F-2025-0173,""Apr 10, 2025"",Transportes Andinos,Logistica,$5.023.900,Pendiente",,,,,
+F-2025-0021,4-7-25,DISTRIBUIDORA EL SOL SAS,Insumos,$570.000,pagada
+F-2025-0676,2025-05-07,TecnoSoluciones Ltda,,292000,anulada
+F-2025-0274,2025-06-23,Transportes Andinos,Logistica,$247.000,Pendiente
+"F-2025-0019,,TRANSPORTES ANDINOS,Logistica,""1,039,900"",pagada",,,,,
+F-2025-0207,13/10/2025,Ferreteria El Tornillo,Mantenimiento,5068600 COP,pagada
+F-2025-0068,17/05/2025,Cafe de la Montana,Cafeteria,$166.000,anulada
+"F-2025-0313,""Apr 9, 2025"",Publicidad Creativa,Marketing,877000,pendiente",,,,,
+F-2025-0562,2025-11-07,Publicidad Creativa,Marketing,183000,pendiente
+F-2025-0472,05/08/2025,TecnoSoluciones Ltda,Tecnologia,155000,Pendiente
+F-2025-0295,,Transportes Andinos,Logistica,$142.000,pagada
+F-2025-0010,2025-12-24,Energia de Bogota,Servicios,5078700,pagada
+F-2025-0348,2025-07-12,Distribuidora El Sol SAS,Insumos,$641.000,pendiente
+"F-2025-0704,""Jun 5, 2025"",Energia de Bogota,,729000,anulada",,,,,
+"F-2025-0296,""Feb 28, 2025"",Transportes Andinos,Logistica,14029700 COP,pagada",,,,,
+F-2025-0620,2025-09-10,TecnoSoluciones Ltda  ,Tecnologia,$5.085.900,pendiente
+F-2025-0640,28/06/2025,Papelería Central,Oficina,$4.068.300,Pendiente
+F-2025-0303,28/02/2025,Energia de Bogota,Servicios,,pagada
+F-2025-0451,13/05/2025,Papeleria Central,Oficina,272000,PAGADA
+F-2025-0525,25/09/2025,Distribuidora El Sol SAS,Insumos,$3.086.600,pagada
+"F-2025-0041,13-7-25,CAFE DE LA MONTANA,Cafeteria,""7,041,700"",Pendiente",,,,,
+F-2025-0232,19/12/2025,Papeleria Central,OFICINA,$15.003.000,pagada
+F-2025-0751,,Energia de Bogota,Servicios,293000,pagada
+F-2025-0062,2025-08-15,Ferreteria El Tornillo,Mantenimiento,$8.070.500,PAGADA
+F-2025-0336,25/03/2025,Publicidad Creativa,Marketing,422000,pagada
+F-2025-0443,01/03/2025,INTERNET RAPIDO SA,Servicios,3007200,pagada
+F-2025-0527,2025-06-13,Ferreteria El Tornillo,Mantenimiento,$425.000,PAGADA
+F-2025-0256,2025-03-24,Cafe de la Montana  ,Cafeteria,$731.000,pagada
+F-2025-0253,6-12-25,distribuidora el sol sas,Insumos,8000000,pagada
+"F-2025-0543,""May 17, 2025"",TecnoSoluciones Ltda,TECNOLOGIA,$10.082.000,pendiente",,,,,
+F-2025-0101,2025-10-02,Aseo Total SAS,Mantenimiento,2029000,pagada
+F-2025-0739,2025-12-17,Publicidad Creativa,Marketing,5028800,pendiente
+F-2025-0603,2025-03-23,Internet Rapido SA  ,Servicios,6030600,
+F-2025-0555,2025-07-27,Publicidad Creativa,Marketing,$ 858000,pagada
+F-2025-0223,01/10/2025,Aseo Total SAS,MANTENIMIENTO,356000,pendiente
+F-2025-0216,2025-10-21,Transportes Andinos,Logistica,$778.000,pagada
+F-2025-0381,2025-03-02,TecnoSoluciones Ltda,Tecnologia,$13.051.000,pagada
+F-2025-0294,2025-04-01,TecnoSoluciones Ltda,Tecnologia,1056100,anulada
+"F-2025-0039,2025-05-25,PUBLICIDAD CREATIVA,Marketing,""15,056,100"",",,,,,
+F-2025-0312,2025-11-23,Energia de Bogota  ,Servicios,760000 COP,pendiente
+F-2025-0143,19/06/2025,Distribuidora El Sol SAS,Insumos,7088400,
+F-2025-0719,2025-09-09,INTERNET RAPIDO SA,Servicios,4060500,anulada
+F-2025-0419,2025-08-08,Papeleria Central  ,Oficina,$15.097.700,Pendiente
+F-2025-0453,2025-02-28,TecnoSoluciones Ltda,Tecnologia,$11.300.000,Pendiente
+F-2025-0699,2025-02-04,Ferreteria El Tornillo  ,Mantenimiento,728000,PAGADA
+F-2025-0109,15-1-25,INTERNET RAPIDO SA,Servicios,9039300,anulada
+"F-2025-0309,""Jun 17, 2025"",Internet Rapido SA,Servicios,$227.000,pendiente",,,,,
+F-2025-0521,2025-05-23,publicidad creativa,Marketing,521000 COP,
+F-2025-0574,2025-11-05,Papeleria Central,Oficina,$71.000,pendiente
+F-2025-0587,07/12/2025,Papeleria Central,Oficina,$10.096.100,PAGADA
+F-2025-0288,10-1-25,Aseo Total SAS,MANTENIMIENTO,$3.010.500,
+"F-2025-0120,2025-03-02,aseo total sas,Mantenimiento,""279,000"",pagada",,,,,
+"F-2025-0709,""Apr 7, 2025"",TecnoSoluciones Ltda,Tecnologia,""518,000"",PAGADA",,,,,
+"F-2025-0395,2025-12-22,Energia de Bogota,Servicios,""817,000"",",,,,,
+F-2025-0239,14/09/2025,Ferreteria El Tornillo,Mantenimiento,,pagada
+F-2025-0522,05/12/2025,Aseo Total SAS,Mantenimiento,226000,pagada
+F-2025-0059,06/04/2025,Internet Rapido SA,SERVICIOS,$807.000,anulada
+F-2025-0767,4-3-25,TecnoSoluciones Ltda  ,TECNOLOGIA,3085500,pagada
+F-2025-0353,08/12/2025,FERRETERIA EL TORNILLO,Mantenimiento,1020600,pagada
+F-2025-0557,2025-02-04,Ferreteria El Tornillo,Mantenimiento,,pagada
+F-2025-0589,2025-10-16,Transportes Andinos,Logistica,,pendiente
+"F-2025-0652,2025-11-11,TecnoSoluciones Ltda  ,Tecnologia,""283,000"",pendiente",,,,,
+F-2025-0496,2025-11-03,PUBLICIDAD CREATIVA,MARKETING,$13.089.200,pendiente
+F-2025-0383,2025-11-24,Energia de Bogota,Servicios,$4.048.400,pendiente
+F-2025-0366,18/09/2025,Ferreteria El Tornillo  ,Mantenimiento,1018000,
+"F-2025-0191,25/02/2025,Ferreteria El Tornillo  ,Mantenimiento,""4,036,400"",pagada",,,,,
+F-2025-0776,2025-01-10,PUBLICIDAD CREATIVA,Marketing,809000,pagada
+F-2025-0457,19/01/2025,Cafe de la Montana,CAFETERIA,$9.027.500,pagada
+F-2025-0506,2025-06-12,Internet Rapido SA,SERVICIOS,,
+F-2025-0523,2025-01-07,Publicidad Creativa  ,Marketing,$757.000,pagada
+F-2025-0184,01/05/2025,FERRETERIA EL TORNILLO,Mantenimiento,$1.054.400,pagada
+F-2025-0762,16/05/2025,Publicidad Creativa,Marketing,15068300 COP,pagada
+"F-2025-0397,2025-06-15,Aseo Total SAS,Mantenimiento,""673,000"",pendiente",,,,,
+F-2025-0166,2025-02-17,Transportes Andinos,Logistica,6087400,Pendiente
+F-2025-0490,2025-04-11,TRANSPORTES ANDINOS,Logistica,6013900,pagada
+F-2025-0454,07/03/2025,aseo total sas,Mantenimiento,7041500,Pendiente
+F-2025-0452,03/06/2025,TECNOSOLUCIONES LTDA,Tecnologia,$13.093.500,pagada
+F-2025-0743,2025-06-07,Publicidad Creativa,,$302.000,Pendiente
+F-2025-0394,2025-09-13,Papeleria Central,Oficina,361000,pagada
+F-2025-0272,2025-10-21,Cafe de la Montana,Cafeteria,$ 5099700,Pendiente
+F-2025-0554,2025-04-10,Ferreteria El Tornillo,Mantenimiento,$ 1093100,PAGADA
+F-2025-0657,2025-09-13,Transportes Andinos,Logistica,$10.064.400,anulada
+"F-2025-0435,27/01/2025,TRANSPORTES ANDINOS,Logistica,""8,091,300"",",,,,,
+F-2025-0210,2025-11-16,ferreteria el tornillo,Mantenimiento,$4.083.400,pagada
+F-2025-0432,15/01/2025,Ferreteria El Tornillo,MANTENIMIENTO,554000 COP,Pendiente
+F-2025-0670,2025-11-22,Café de la Montana,,2001600,pagada
+F-2025-0262,2025-01-12,TecnoSoluciones Ltda,Tecnologia,354000 COP,anulada
+F-2025-0018,14/03/2025,Energia de Bogota,Servicios,$150.000,pagada
+F-2025-0737,17/07/2025,Papeleria Central  ,Oficina,8056300 COP,pagada
+F-2025-0493,,Aseo Total SAS  ,Mantenimiento,$494.000,Pendiente
+F-2025-0754,2025-07-05,Internet Rapido SA  ,Servicios,$4.083.600,pagada
+F-2025-0483,14/05/2025,Ferreteria El Tornillo  ,Mantenimiento,$132.000,pagada
+F-2025-0539,2025-06-06,Cafe de la Montana,Cafeteria,$290.000,Pendiente
+F-2025-0642,2025-02-05,Publicidad Creativa,MARKETING,$260.000,PAGADA
+F-2025-0484,2025-01-20,Cafe de la Montana,Cafeteria,$ 11027700,pendiente
+F-2025-0578,22/08/2025,internet rapido sa,Servicios,98000,pagada
+F-2025-0726,2025-09-10,Cafe de la Montana,Cafeteria,$ 10042800,pendiente
+"F-2025-0197,""Aug 19, 2025"",Ferreteria El Tornillo,Mantenimiento,3098700,Pendiente",,,,,
+F-2025-0541,2025-03-20,Papelería Central,Oficina,11021000,pagada
+F-2025-0722,2025-04-09,Publicidad Creativa,Marketing,,Pendiente
+F-2025-0319,2025-09-06,Aseo Total SAS,Mantenimiento,13072400,pendiente
+"F-2025-0164,""Sep 16, 2025"",cafe de la montana,Cafeteria,8015600 COP,pendiente",,,,,
+F-2025-0140,01/11/2025,DISTRIBUIDORA EL SOL SAS,Insumos,1097100,pendiente
+F-2025-0639,2025-01-14,Internet Rapido SA,Servicios,$723.000,pendiente
+"F-2025-0731,""Sep 28, 2025"",Publicidad Creativa,Marketing,7017400,pendiente",,,,,
+F-2025-0702,24-4-25,CAFE DE LA MONTANA,Cafeteria,5011800,PAGADA
+"F-2025-0611,01/12/2025,Aseo Total SAS  ,Mantenimiento,""1,098,100"",",,,,,
+F-2025-0666,11/03/2025,Publicidad Creativa,,$401.000,pagada
+F-2025-0505,2025-11-26,Internet Rapido SA,Servicios,12054800,PAGADA
+F-2025-0370,2025-04-11,Publicidad Creativa,Marketing,10058500,Pendiente
+F-2025-0526,,Internet Rapido SA,Servicios,831000,
+F-2025-0685,2025-12-08,Energia de Bogota,Servicios,8065000 COP,pagada
+"F-2025-0529,""Jul 7, 2025"",Internet Rapido SA,Servicios,5070300 COP,PAGADA",,,,,
+F-2025-0761,02/02/2025,Transportes Andinos,Logistica,$4.010.400,pagada
+F-2025-0301,22/11/2025,Energia de Bogota,Servicios,585000 COP,pagada
+F-2025-0393,26/06/2025,ferreteria el tornillo,Mantenimiento,131000,pagada
+F-2025-0780,,Papeleria Central  ,Oficina,$10.037.200,pagada
+F-2025-0299,05/12/2025,Transportes Andinos,Logistica,7079700 COP,anulada
+"F-2025-0531,24/07/2025,Papeleria Central  ,Oficina,""422,000"",pendiente",,,,,
+F-2025-0202,2025-12-17,Internet Rapido SA,Servicios,$10.022.600,pendiente
+F-2025-0144,07/04/2025,Ferreteria El Tornillo,Mantenimiento,15031500,anulada
+F-2025-0368,07/10/2025,ENERGIA DE BOGOTA,Servicios,$879.000,pendiente
+F-2025-0500,15/05/2025,Ferreteria El Tornillo  ,Mantenimiento,$ 547000,pagada
+F-2025-0561,7-4-25,energia de bogota,Servicios,13094200,anulada
+"F-2025-0089,""Sep 9, 2025"",Cafe de la Montana,Cafeteria,386000 COP,pagada",,,,,
+F-2025-0680,2025-05-19,FERRETERIA EL TORNILLO,Mantenimiento,368000,anulada
+F-2025-0713,23/05/2025,Papeleria Central  ,Oficina,550000,anulada
+F-2025-0778,,TRANSPORTES ANDINOS,Logistica,$ 5036800,anulada
+F-2025-0460,2025-08-19,TecnoSoluciones Ltda,TECNOLOGIA,,pagada
+F-2025-0673,23/02/2025,Dist. El Sol SAS,Insumos,15022300 COP,pagada
+F-2025-0254,12/02/2025,TRANSPORTES ANDINOS,Logistica,$650.000,PAGADA
+F-2025-0733,2025-12-06,Distribuidora El Sol SAS,INSUMOS,$1.063.000,pendiente
+F-2025-0382,08/08/2025,Cafe de la Montana,Cafeteria,$306.000,pagada
+F-2025-0240,2025-03-08,internet rapido sa,Servicios,$ 9013600,Pendiente
+"F-2025-0151,2025-03-17,Cafe de la Montana,CAFETERIA,""9,079,300"",",,,,,
+"F-2025-0334,""Nov 1, 2025"",TECNOSOLUCIONES LTDA,Tecnologia,""801,000"",pendiente",,,,,
+"F-2025-0283,""Jul 26, 2025"",Transportes Andinos,Logistica,$746.000,anulada",,,,,
+F-2025-0363,2025-10-04,PAPELERIA CENTRAL,,9047100,
+"F-2025-0179,""Jun 17, 2025"",Energia de Bogota,Servicios,13028900 COP,anulada",,,,,
+"F-2025-0048,2025-10-26,Publicidad Creativa,Marketing,""782,000"",PAGADA",,,,,
+"F-2025-0772,""Nov 13, 2025"",Cafe de la Montana,Cafeteria,451000 COP,Pendiente",,,,,
+F-2025-0247,2025-04-21,Cafe de la Montana,,$5.028.600,pagada
+F-2025-0141,14/08/2025,Ferreteria El Tornillo,MANTENIMIENTO,$13.082.600,PAGADA
+"F-2025-0138,""Sep 10, 2025"",Papeleria Central,Oficina,$580.000,",,,,,
+F-2025-0065,02/09/2025,Transportes Andinos,Logistica,7071000,Pendiente
+F-2025-0355,2025-07-19,Energia de Bogota,Servicios,$6.035.500,
+F-2025-0659,2025-07-13,TecnoSoluciones Ltda,Tecnologia,$9.007.100,anulada
+F-2025-0043,27/03/2025,TecnoSoluciones Ltda,Tecnologia,$8.002.900,pagada
+F-2025-0113,13/09/2025,TecnoSoluciones Ltda,TECNOLOGIA,12067800,
+F-2025-0735,12/03/2025,Transportes Andinos,Logistica,599000 COP,pendiente
+"F-2025-0168,2025-01-10,Aseo Total SAS  ,Mantenimiento,""767,000"",Pendiente",,,,,
+F-2025-0464,24-8-25,Distribuidora El Sol S.A.S,Insumos,707000,Pendiente
+F-2025-0373,2025-11-05,tecnosoluciones ltda,Tecnologia,3008600,PAGADA
+F-2025-0059,06/04/2025,Internet Rapido SA,SERVICIOS,$807.000,anulada
+F-2025-0187,17-2-25,Transportes Andinos,Logistica,$ 8086500,anulada
+F-2025-0779,2025-02-16,Papeleria Central,Oficina,$ 1014600,pagada
+F-2025-0127,2025-11-11,Ferreteria El Tornillo  ,MANTENIMIENTO,$309.000,Pendiente
+F-2025-0079,2-12-25,TecnoSoluciones Ltda  ,Tecnologia,14067400 COP,pendiente
+F-2025-0752,2025-05-24,Distribuidora El Sol S.A.S,Insumos,6064700,pagada
+"F-2025-0263,""Feb 10, 2025"",Cafe de la Montana,Cafeteria,149000 COP,pendiente",,,,,
+F-2025-0724,26/06/2025,TecnoSoluciones Ltda,Tecnologia,$672.000,Pendiente
+F-2025-0508,2025-06-23,TecnoSoluciones Ltda,Tecnologia,535000,
+"F-2025-0594,""Jan 8, 2025"",Transportes Andinos,Logistica,712000,pagada",,,,,
+F-2025-0586,11/10/2025,Energia de Bogota,SERVICIOS,$12.062.600,anulada
+F-2025-0768,2025-03-01,Publicidad Creativa,Marketing,430000,pagada
+F-2025-0099,2025-08-11,Papeleria Central,Oficina,195000,pagada
+F-2025-0063,25/01/2025,Internet Rapido SA,Servicios,306000,pagada
+F-2025-0131,2025-03-22,Distribuidora El Sol SAS,INSUMOS,$2.024.100,pagada
+F-2025-0660,22/12/2025,PAPELERIA CENTRAL,Oficina,$ 448000,pendiente
+"F-2025-0268,17/05/2025,internet rapido sa,Servicios,""314,000"",",,,,,
+"F-2025-0082,""May 24, 2025"",energia de bogota,Servicios,$563.000,pagada",,,,,
+"F-2025-0003,""Feb 12, 2025"",PUBLICIDAD CREATIVA,MARKETING,398000 COP,anulada",,,,,
+"F-2025-0280,13/10/2025,CAFE DE LA MONTANA,Cafeteria,""203,000"",anulada",,,,,
+"F-2025-0308,""Sep 14, 2025"",Ferreteria El Tornillo,,$518.000,pagada",,,,,
+"F-2025-0592,""Feb 4, 2025"",ENERGIA DE BOGOTA,Servicios,668000 COP,pagada",,,,,
+F-2025-0577,22-3-25,energia de bogota,Servicios,$5.047.900,pendiente
+F-2025-0568,2025-08-14,Distribuidora El Sol S.A.S,Insumos,$243.000,anulada
+"F-2025-0176,""Feb 15, 2025"",Publicidad Creativa,Marketing,""476,000"",pendiente",,,,,
+F-2025-0061,2025-03-26,Publicidad Creativa  ,MARKETING,$167.000,pendiente
+F-2025-0624,2025-10-12,energia de bogota,Servicios,15085200 COP,pagada
+F-2025-0438,2025-01-25,Cafe de la Montana,Cafeteria,$8.084.900,anulada
+F-2025-0311,,ENERGIA DE BOGOTA,Servicios,$ 697000,
+"F-2025-0324,""Jan 6, 2025"",PAPELERIA CENTRAL,OFICINA,$814.000,pendiente",,,,,
+"F-2025-0595,""Sep 14, 2025"",Papeleria Central,Oficina,$6.073.200,Pendiente",,,,,
+F-2025-0338,09/12/2025,DISTRIBUIDORA EL SOL SAS,Insumos,90000,Pendiente
+F-2025-0625,22-5-25,Papeleria Central,OFICINA,523000,pendiente
+"F-2025-0729,18/12/2025,Papeleria Central,Oficina,""465,000"",",,,,,
+F-2025-0006,23/11/2025,INTERNET RAPIDO SA,Servicios,700000 COP,pagada
+F-2025-0153,11/08/2025,TECNOSOLUCIONES LTDA,Tecnologia,$ 5023000,pendiente
+"F-2025-0093,""Dec 4, 2025"",ASEO TOTAL SAS,MANTENIMIENTO,""10,054,300"",pendiente",,,,,
+F-2025-0083,2025-07-01,Transportes Andinos,Logistica,4088000,pendiente
+"F-2025-0414,2025-09-05,Internet Rapido SA,Servicios,""604,000"",pagada",,,,,
+"F-2025-0231,2025-12-09,Papeleria Central,Oficina,""62,000"",pendiente",,,,,
+"F-2025-0636,01/02/2025,Internet Rapido SA,Servicios,""684,000"",pendiente",,,,,
+F-2025-0687,09/07/2025,Publicidad Creativa,Marketing,$773.000,Pendiente
+F-2025-0161,2025-11-04,Transportes Andinos,LOGISTICA,14065400,pendiente
+F-2025-0456,2025-08-13,Publicidad Creativa,Marketing,$15.080.700,anulada
+F-2025-0672,2025-04-15,CAFE DE LA MONTANA,CAFETERIA,158000,PAGADA
+F-2025-0664,,TECNOSOLUCIONES LTDA,Tecnologia,,pagada
+F-2025-0352,2025-11-17,TecnoSoluciones Ltda,Tecnologia,277000,pagada
+F-2025-0270,05/07/2025,ASEO TOTAL SAS,Mantenimiento,$5.039.200,Pendiente
+F-2025-0763,2025-08-27,DISTRIBUIDORA EL SOL SAS,Insumos,$ 202000,pendiente
+F-2025-0321,2025-02-13,Ferreteria El Tornillo  ,Mantenimiento,296000,
+F-2025-0492,2025-08-09,Cafe de la Montana,Cafeteria,7087700 COP,pendiente
+F-2025-0250,08/02/2025,Distribuidora El Sol SAS,Insumos,8054200 COP,pagada
+F-2025-0674,06/06/2025,TecnoSoluciones LTDA,Tecnologia,10033200,anulada
+F-2025-0212,25/01/2025,Energia de Bogota,Servicios,,pagada
+"F-2025-0411,13/08/2025,Energia de Bogota,Servicios,""518,000"",PAGADA",,,,,
+F-2025-0408,23/12/2025,Energia de Bogota,Servicios,$ 4055900,
+F-2025-0683,24/09/2025,Papeleria Central,OFICINA,$ 3073200,Pendiente
+F-2025-0052,2025-04-24,TECNOSOLUCIONES LTDA,Tecnologia,5090100,anulada
+"F-2025-0703,""Jul 11, 2025"",Publicidad Creativa  ,Marketing,$ 12000100,pagada",,,,,
+"F-2025-0213,""Feb 25, 2025"",Cafe de la Montana,CAFETERIA,""14,003,300"",PAGADA",,,,,
+F-2025-0583,2025-09-07,Cafe de la Montana  ,Cafeteria,77000,Pendiente
+F-2025-0507,2025-06-05,TecnoSoluciones Ltda  ,Tecnologia,,PAGADA
+F-2025-0700,5-11-25,PUBLICIDAD CREATIVA,Marketing,$5.022.500,PAGADA
+F-2025-0551,02/10/2025,Publicidad Creativa,Marketing,$ 273000,PAGADA
+F-2025-0500,15/05/2025,Ferreteria El Tornillo  ,Mantenimiento,$ 547000,pagada
+F-2025-0269,04/02/2025,Publicidad Creativa,Marketing,165000,
+F-2025-0290,2025-11-26,cafe de la montana,Cafeteria,794000,
+"F-2025-0736,2025-03-22,Papeleria Central,Oficina,""244,000"",pendiente",,,,,
+"F-2025-0110,17/02/2025,Energia de Bogota,Servicios,""204,000"",anulada",,,,,
+F-2025-0126,11-1-25,Transportes Andinos,Logistica,,
+"F-2025-0471,""Mar 18, 2025"",Transportes Andinos,Logistica,$501.000,anulada",,,,,
+F-2025-0114,25/06/2025,Papeleria Central,Oficina,11043300,pagada
+"F-2025-0106,""Oct 5, 2025"",ASEO TOTAL SAS,Mantenimiento,794000,anulada",,,,,
+"F-2025-0744,""Sep 25, 2025"",Transportes Andinos,LOGISTICA,""8,037,200"",PAGADA",,,,,
+F-2025-0148,2025-05-19,internet rapido sa,Servicios,$3.033.500,pendiente
+F-2025-0085,2025-02-04,TecnoSoluciones Ltda,,714000,PAGADA
+F-2025-0282,2025-03-10,Ferreteria El Tornillo,Mantenimiento,6051900,
+F-2025-0572,11-8-25,Ferreteria El Tornillo,,$ 693000,pagada
+F-2025-0634,10/01/2025,Publicidad Creativa,Marketing,370000,pagada
+F-2025-0388,2025-12-15,ferreteria el tornillo,Mantenimiento,$ 5055500,
+F-2025-0252,2025-09-10,Aseo Total SAS,Mantenimiento,631000,pendiente
+F-2025-0199,2025-05-22,TecnoSoluciones Ltda,Tecnologia,2083800,anulada
+F-2025-0718,2025-01-07,energia de bogota,SERVICIOS,410000,pagada
+"F-2025-0228,2025-07-17,Distribuidora El Sol SAS  ,Insumos,""2,001,400"",Pendiente",,,,,
+F-2025-0246,13/12/2025,Aseo Total SAS,Mantenimiento,$1.096.400,PAGADA
+F-2025-0192,2025-01-10,TecnoSoluciones Ltda  ,Tecnologia,207000,pagada
+F-2025-0367,2025-11-04,Internet Rapido SA,Servicios,98000,
+F-2025-0465,11-11-25,FERRETERIA EL TORNILLO,Mantenimiento,3054300,
+"F-2025-0134,""May 10, 2025"",Papeleria Central  ,Oficina,$ 11099000,pagada",,,,,
+F-2025-0026,2025-09-23,TecnoSoluciones Ltda,Tecnologia,95000,pagada
+F-2025-0392,2025-05-02,DISTRIBUIDORA EL SOL SAS,Insumos,11085600,pendiente
+F-2025-0081,2025-12-14,TecnoSoluciones Ltda,Tecnologia,$8.003.400,PAGADA
+F-2025-0029,27-4-25,Cafe de la Montana,,323000 COP,pendiente
+F-2025-0157,10/06/2025,Publicidad Creativa,Marketing,15090100,pendiente
+F-2025-0012,2025-09-25,TECNOSOLUCIONES LTDA,TECNOLOGIA,$ 295000,pagada
+"F-2025-0563,2025-01-16,TecnoSoluciones Ltda,Tecnologia,""291,000"",pendiente",,,,,
+F-2025-0710,2025-03-02,Internet Rapido SA,Servicios,154000,pagada
+F-2025-0552,16/06/2025,energia de bogota,Servicios,483000,pagada
+F-2025-0452,03/06/2025,TECNOSOLUCIONES LTDA,Tecnologia,$13.093.500,pagada
+F-2025-0209,27/06/2025,Publicidad Creativa,Marketing,240000,pagada
+F-2025-0331,23/05/2025,PAPELERIA CENTRAL,Oficina,341000,PAGADA
+F-2025-0564,16-4-25,Publicidad Creativa,MARKETING,$ 7075300,pagada
+F-2025-0267,,Papeleria Central,Oficina,,pagada
+F-2025-0402,2025-10-05,INTERNET RAPIDO SA,Servicios,11079600,Pendiente
+"F-2025-0122,01/09/2025,PAPELERIA CENTRAL,Oficina,""4,042,900"",pendiente",,,,,
+F-2025-0517,2025-12-05,Internet Rapido SA,Servicios,67000,PAGADA
+F-2025-0130,2025-12-22,Internet Rapido SA,Servicios,495000 COP,anulada
+F-2025-0628,,TRANSPORTES ANDINOS,Logistica,$315.000,pendiente
+"F-2025-0237,""Sep 25, 2025"",Ferreteria El Tornillo,Mantenimiento,$ 10099500,pagada",,,,,
+F-2025-0630,2025-07-18,Ferreteria El Tornillo,Mantenimiento,557000,pagada
+F-2025-0424,13/03/2025,Ferreteria El Tornillo,Mantenimiento,6008700,PAGADA
+F-2025-0530,2025-02-05,TRANSPORTES ANDINOS,Logistica,,pagada
+"F-2025-0581,""Dec 13, 2025"",Publicidad Creativa,Marketing,$1.000.500,anulada",,,,,
+F-2025-0413,2025-05-20,Transportes Andinos,Logistica,139000,pagada
+F-2025-0178,08/08/2025,TecnoSoluciones Ltda  ,Tecnologia,65000,pendiente
+"F-2025-0400,""Mar 16, 2025"",PAPELERIA CENTRAL,Oficina,$634.000,pagada",,,,,
+F-2025-0132,2025-01-24,Internet Rapido SA,Servicios,$ 9037500,pagada
+"F-2025-0440,""Jan 22, 2025"",cafe de la montana,CAFETERIA,1047000,pagada",,,,,
+F-2025-0053,2025-11-19,FERRETERIA EL TORNILLO,Mantenimiento,508000,
+F-2025-0403,2025-03-11,FERRETERIA EL TORNILLO,Mantenimiento,820000,Pendiente
+"F-2025-0198,1-9-25,Aseo Total SAS,Mantenimiento,""166,000"",anulada",,,,,
+F-2025-0401,2025-06-27,Internet Rapido SA,,5003800,pendiente
+"F-2025-0570,2025-10-06,Energia de Bogota,Servicios,""892,000"",pagada",,,,,
+"F-2025-0590,""Mar 27, 2025"",Cafe de la Montana,Cafeteria,264000 COP,PAGADA",,,,,
+F-2025-0749,13/07/2025,Publicidad Creativa,Marketing,556000,pendiente
+F-2025-0175,28/05/2025,publicidad creativa,Marketing,$ 202000,
+F-2025-0644,10/04/2025,Papeleria Central,Oficina,71000,pagada
+F-2025-0326,25-5-25,Papeleria Central,Oficina,416000 COP,pagada
+F-2025-0532,2025-08-04,Publicidad Creativa,Marketing,8068200,pagada
+F-2025-0598,17/05/2025,Publicidad Creativa,Marketing,$15.069.700,pendiente
+F-2025-0158,,Energia de Bogota,Servicios,$806.000,pendiente
+F-2025-0027,2025-01-12,Energia de Bogota,,86000,
+F-2025-0016,28/08/2025,FERRETERIA EL TORNILLO,Mantenimiento,,pagada
+F-2025-0615,2025-10-11,Transportes Andinos  ,Logistica,311000,pagada
+F-2025-0662,27/12/2025,Ferreteria El Tornillo,Mantenimiento,$523.000,pagada
+F-2025-0005,2025-06-12,Papeleria Central,Oficina,$ 14010300,pagada
+F-2025-0248,26/11/2025,Papeleria Central,Oficina,7014000,PAGADA
+F-2025-0425,2025-07-10,Internet Rapido SA  ,Servicios,$725.000,pagada
+"F-2025-0758,""Oct 15, 2025"",Distribuidora El Sol SAS,Insumos,$2.055.500,pendiente",,,,,
+"F-2025-0271,2025-05-10,Aseo Total SAS,MANTENIMIENTO,""4,005,000"",pagada",,,,,
+F-2025-0275,19/08/2025,Papeleria Central,Oficina,1024700 COP,pendiente
+"F-2025-0629,""Jun 14, 2025"",Energia de Bogota,SERVICIOS,1096000,",,,,,
+"F-2025-0520,27-12-25,transportes andinos,Logistica,""154,000"",pagada",,,,,
+"F-2025-0230,20/08/2025,TecnoSoluciones Ltda,Tecnologia,""765,000"",pagada",,,,,
+F-2025-0384,08/02/2025,Ferreteria El Tornillo,Mantenimiento,5020300,pendiente
+F-2025-0008,,Transportes Andinos,Logistica,$3.025.200,pagada
+"F-2025-0406,07/04/2025,TecnoSoluciones Ltda,Tecnologia,""6,063,100"",pagada",,,,,
+"F-2025-0423,""Nov 23, 2025"",Transportes Andinos  ,Logistica,514000,pagada",,,,,
+F-2025-0476,15/11/2025,TecnoSoluciones Ltda,TECNOLOGIA,762000,pendiente
+F-2025-0360,03/02/2025,CAFE DE LA MONTANA,Cafeteria,$284.000,
+"F-2025-0654,""Aug 24, 2025"",Transportes Andinos,Logistica,457000,pendiente",,,,,
+F-2025-0481,2025-01-19,Aseo Total SAS,Mantenimiento,173000,Pendiente
+"F-2025-0201,2025-02-01,Transportes Andinos,Logistica,""10,004,500"",",,,,,
+F-2025-0766,2025-03-04,Papeleria Central,,290000 COP,pagada
+F-2025-0697,2025-12-13,Aseo Total SAS,Mantenimiento,15096400,
+F-2025-0565,02/09/2025,Distribuidora El Sol SAS,Insumos,$9.063.400,PAGADA
+F-2025-0764,,TRANSPORTES ANDINOS,Logistica,$142.000,pagada
+F-2025-0322,2025-06-17,Aseo Total SAS,Mantenimiento,,
+F-2025-0745,05/02/2025,INTERNET RAPIDO SA,Servicios,591000,pendiente
+F-2025-0671,7-10-25,Transportes Andinos,Logistica,$95.000,pendiente
+F-2025-0297,2025-03-04,Aseo Total SAS,Mantenimiento,15044800,Pendiente
+F-2025-0034,13/05/2025,Energia de Bogota,Servicios,4043000,Pendiente
+F-2025-0596,26/12/2025,Ferreteria El Tornillo,Mantenimiento,13069800,Pendiente
+F-2025-0516,22/11/2025,FERRETERIA EL TORNILLO,Mantenimiento,10076300,
+F-2025-0455,16/12/2025,Transportes Andinos,LOGISTICA,345000,pagada
+F-2025-0103,2025-06-19,Papeleria Central,OFICINA,$456.000,pendiente
+F-2025-0558,22/03/2025,Internet Rapido SA,Servicios,7081100,pagada
+F-2025-0509,07/11/2025,Papeleria Central,OFICINA,$ 365000,pendiente
+F-2025-0626,2025-10-07,Café de la Montana,Cafeteria,$8.099.000,pagada
+F-2025-0422,23/10/2025,Transportes Andinos,Logistica,14066100,pagada
+F-2025-0419,2025-08-08,Papeleria Central  ,Oficina,$15.097.700,Pendiente
+F-2025-0092,2025-06-20,Publicidad Creativa,Marketing,$11.011.000,
+"F-2025-0107,""Oct 11, 2025"",FERRETERIA EL TORNILLO,Mantenimiento,10077800,pagada",,,,,
+F-2025-0090,2025-03-24,Distribuidora El Sol SAS,,416000,anulada
+"F-2025-0102,2025-09-23,TECNOSOLUCIONES LTDA,Tecnologia,""346,000"",PAGADA",,,,,
+F-2025-0291,2025-07-15,Internet Rapido SA,,$99.000,pagada
+"F-2025-0708,2025-09-13,Publicidad Creativa,Marketing,""2,054,000"",pagada",,,,,
+F-2025-0292,20/05/2025,Cafe de la Montana,Cafeteria,761000 COP,pagada
+"F-2025-0391,""Mar 6, 2025"",Aseo Total SAS,MANTENIMIENTO,$469.000,pagada",,,,,
+F-2025-0447,11/02/2025,TecnoSoluciones Ltda,Tecnologia,836000,anulada
+"F-2025-0647,2025-11-20,Transportes Andinos,Logistica,""10,090,700"",",,,,,
+F-2025-0167,2025-05-27,Ferreteria El Tornillo,MANTENIMIENTO,1057200,Pendiente
+F-2025-0610,26/02/2025,TRANSPORTES ANDINOS,Logistica,11047100,Pendiente
+"F-2025-0567,""Dec 16, 2025"",TecnoSoluciones Ltda,Tecnologia,10084900 COP,anulada",,,,,
+F-2025-0182,21-9-25,Ferreteria El Tornillo,Mantenimiento,12081400 COP,pagada
+F-2025-0383,2025-11-24,Energia de Bogota,Servicios,$4.048.400,pendiente
+"F-2025-0769,2025-05-16,Internet Rapido SA,Servicios,""883,000"",pagada",,,,,
+F-2025-0690,2025-01-24,Transportes Andinos  ,Logistica,252000,Pendiente
+F-2025-0738,02/04/2025,Papeleria Central,Oficina,,pagada
+F-2025-0725,13/03/2025,Ferreteria El Tornillo,Mantenimiento,$ 656000,PAGADA
+F-2025-0344,2025-07-13,TecnoSoluciones Ltda,TECNOLOGIA,$12.070.200,
+F-2025-0536,18/11/2025,FERRETERIA EL TORNILLO,Mantenimiento,$3.031.900,pagada
+F-2025-0437,2025-12-28,Transportes Andinos,Logistica,$634.000,anulada
+F-2025-0556,11/12/2025,Transportes Andinos,Logistica,765000,pagada
+F-2025-0649,2025-07-19,cafe de la montana,Cafeteria,15020700,pagada
+F-2025-0361,2025-05-16,Distribuidora El Sol SAS  ,Insumos,$6.063.500,Pendiente
+F-2025-0421,2025-05-15,Publicidad Creativa,Marketing,$ 578000,
+F-2025-0424,13/03/2025,Ferreteria El Tornillo,Mantenimiento,6008700,PAGADA
+"F-2025-0467,2025-02-01,Energia de Bogota,,""395,000"",PAGADA",,,,,
+F-2025-0688,09/03/2025,Internet Rapido SA,Servicios,365000,pendiente
+"F-2025-0128,""Sep 9, 2025"",Ferreteria El Tornillo  ,Mantenimiento,445000,pagada",,,,,
+F-2025-0515,16-3-25,TRANSPORTES ANDINOS,Logistica,5097800,pendiente
+F-2025-0315,,Energia de Bogota,,$4.052.300,pagada
+F-2025-0310,24/12/2025,tecnosoluciones ltda,Tecnologia,$6.099.300,PAGADA
+F-2025-0017,2025-07-06,Distribuidora El Sol SAS,Insumos,$ 462000,anulada
+F-2025-0373,2025-11-05,tecnosoluciones ltda,Tecnologia,3008600,PAGADA
+F-2025-0380,2025-01-08,Distribuidora El Sol SAS,Insumos,597000,Pendiente
+F-2025-0692,,Ferreteria El Tornillo,MANTENIMIENTO,$738.000,pagada
+F-2025-0591,2025-06-25,publicidad creativa,Marketing,166000,pagada
+F-2025-0196,2025-11-20,Publicidad Creativa,Marketing,$ 14063500,pendiente
+"F-2025-0215,""Jan 9, 2025"",TecnoSoluciones Ltda,Tecnologia,636000 COP,pendiente",,,,,
+F-2025-0357,2025-05-03,Aseo Total SAS  ,Mantenimiento,8069700,pendiente
+F-2025-0222,2025-02-08,Distribuidora El Sol SAS  ,Insumos,58000,PAGADA
+F-2025-0387,2025-12-13,Ferreteria El Tornillo,Mantenimiento,6057100 COP,anulada
+F-2025-0753,04/10/2025,DISTRIBUIDORA EL SOL SAS,Insumos,$ 6022400,pendiente
+F-2025-0171,26/01/2025,CAFE DE LA MONTANA,Cafeteria,$ 6015800,pagada
+F-2025-0560,3-3-25,Cafe de la Montana,Cafeteria,$318.000,pagada
+F-2025-0431,2025-10-20,Papeleria Central,Oficina,$12.070.500,
+"F-2025-0193,""Oct 20, 2025"",transportes andinos,Logistica,8057000,Pendiente",,,,,
+F-2025-0224,19/02/2025,Transportes Andinos,Logistica,$10.070.300,pagada
+F-2025-0038,2025-09-20,Ferreteria El Tornillo  ,Mantenimiento,$101.000,
+"F-2025-0100,2025-08-20,Distribuidora El Sol SAS,Insumos,""209,000"",pagada",,,,,
+F-2025-0698,,Internet Rapido SA,Servicios,853000 COP,pagada
+"F-2025-0655,""Mar 19, 2025"",Publicidad Creativa,MARKETING,""838,000"",anulada",,,,,
+"F-2025-0461,""May 9, 2025"",TecnoSoluciones Ltda,Tecnologia,546000,pagada",,,,,
+F-2025-0650,2025-09-20,Transportes Andinos,LOGISTICA,$2.030.200,PAGADA
+F-2025-0129,2025-12-14,Energia de Bogota,Servicios,$350.000,PAGADA
+F-2025-0462,2025-04-16,Internet Rapido SA,Servicios,3067400,pagada
+"F-2025-0004,2025-06-19,Energia de Bogota,Servicios,""177,000"",pendiente",,,,,
+F-2025-0534,2025-05-18,energia de bogota,Servicios,$8.081.100,pagada
+F-2025-0270,05/07/2025,ASEO TOTAL SAS,Mantenimiento,$5.039.200,Pendiente
+F-2025-0417,28/09/2025,Internet Rapido SA  ,Servicios,287000,Pendiente
+F-2025-0117,14-9-25,cafe de la montana,Cafeteria,11096900 COP,pagada
+F-2025-0693,2025-07-11,Publicidad Creativa,Marketing,,pendiente
+"F-2025-0512,""Jul 5, 2025"",PUBLICIDAD CREATIVA,Marketing,872000,pendiente",,,,,
+"F-2025-0152,""Nov 21, 2025"",Publicidad Creativa,Marketing,$3.047.000,pendiente",,,,,
+F-2025-0470,2025-01-13,Ferreteria El Tornillo,Mantenimiento,13043700,pendiente
+F-2025-0155,2025-05-05,TecnoSoluciones Ltda  ,Tecnologia,815000,pagada
+F-2025-0015,05/09/2025,Papeleria Central,Oficina,$82.000,pendiente
+F-2025-0774,,TecnoSoluciones Ltda,Tecnologia,242000,pagada
+F-2025-0681,2025-07-25,Papelería Central,Oficina,$418.000,Pendiente
+F-2025-0332,2025-05-27,PUBLICIDAD CREATIVA,Marketing,222000,anulada
+F-2025-0149,28/12/2025,Ferreteria El Tornillo,Mantenimiento,$1.037.700,pendiente
+F-2025-0632,2025-05-08,Distribuidora El Sol SAS,Insumos,541000,pagada
+F-2025-0593,2025-03-24,Energia de Bogota,Servicios,$92.000,pagada
+F-2025-0684,2025-07-19,Aseo Total SAS  ,,$ 443000,PAGADA
+F-2025-0080,25/12/2025,cafe de la montana,Cafeteria,$671.000,pagada
+F-2025-0716,,Aseo Total SAS,Mantenimiento,175000,
+F-2025-0612,2025-10-17,Papeleria Central,Oficina,709000 COP,pagada
+F-2025-0660,22/12/2025,PAPELERIA CENTRAL,Oficina,$ 448000,pendiente
+F-2025-0011,01/09/2025,TecnoSoluciones Ltda,Tecnologia,704000,PAGADA
+"F-2025-0399,""May 12, 2025"",Energia de Bogota,Servicios,619000,pendiente",,,,,
+F-2025-0585,24/10/2025,Distribuidora El Sol SAS,Insumos,$1.010.500,anulada
+F-2025-0364,2025-12-25,tecnosoluciones ltda,Tecnologia,5048200,pagada
+"F-2025-0448,""Jun 7, 2025"",PUBLICIDAD CREATIVA,Marketing,""654,000"",Pendiente",,,,,
+"F-2025-0165,""Feb 2, 2025"",Internet Rapido SA,Servicios,2053800,",,,,,
+"F-2025-0706,""Dec 7, 2025"",Ferreteria El Tornillo,Mantenimiento,12098900,pagada",,,,,
+F-2025-0549,27/07/2025,Internet Rapido SA,Servicios,14006500,
+F-2025-0487,2025-02-24,TecnoSoluciones Ltda,Tecnologia,7025700,pagada
+F-2025-0494,23/01/2025,Energia de Bogota,Servicios,453000,pendiente
+F-2025-0728,17-11-25,Papeleria Central,,$5.056.700,
+F-2025-0133,2025-08-07,tecnosoluciones ltda,Tecnologia,$5.072.000,anulada
+F-2025-0204,2025-03-24,Aseo Total SAS,Mantenimiento,118000,
+F-2025-0169,05/09/2025,Aseo Total SAS,Mantenimiento,8089000,
+F-2025-0305,16/10/2025,Aseo Total SAS,Mantenimiento,$422.000,pagada
+F-2025-0773,2025-04-10,Cafe de la Montana,Cafeteria,326000,pagada
+"F-2025-0439,""Mar 25, 2025"",energia de bogota,Servicios,$ 4034800,pagada",,,,,
+F-2025-0095,2025-03-18,Ferreteria El Tornillo,Mantenimiento,$118.000,pagada
+"F-2025-0746,,Cafe de la Montana,Cafeteria,""771,000"",pagada",,,,,
+"F-2025-0189,2025-09-11,Papeleria Central  ,Oficina,""356,000"",pagada",,,,,
+F-2025-0266,28/07/2025,Energia de Bogota,Servicios,$ 14095800,pagada
+F-2025-0376,25/08/2025,Distribuidora El Sol SAS,INSUMOS,$585.000,pendiente
+F-2025-0220,2025-11-12,Cafe de la Montana,Cafeteria,$ 15013500,pagada
+F-2025-0538,,Aseo Total SAS,Mantenimiento,878000,pendiente
+F-2025-0430,2025-04-20,TECNOSOLUCIONES LTDA,Tecnologia,,
+F-2025-0463,08/07/2025,Transportes Andinos  ,Logistica,659000,PAGADA
+F-2025-0730,2025-04-06,internet rapido sa,Servicios,$93.000,pagada
+"F-2025-0306,2025-03-16,Cafe de la Montana  ,Cafeteria,""6,036,300"",pagada",,,,,
+F-2025-0084,11-9-25,Internet Rapido SA,SERVICIOS,14065300,anulada
+F-2025-0415,2025-01-25,Aseo Total SAS,Mantenimiento,,pendiente
+F-2025-0281,2025-10-27,TecnoSoluciones Ltda  ,,15042800,
+F-2025-0071,2025-04-19,energia de bogota,Servicios,$9.038.600,PAGADA
+F-2025-0146,2025-11-20,Energia de Bogota,Servicios,2039500,PAGADA
+"F-2025-0086,14-10-25,Energia de Bogota,Servicios,""479,000"",pendiente",,,,,
+F-2025-0181,2025-11-11,transportes andinos,Logistica,,anulada
+F-2025-0651,2025-06-03,Ferreteria El Tornillo,Mantenimiento,$374.000,pagada
+"F-2025-0259,""Oct 21, 2025"",Publicidad Creativa,Marketing,$15.038.700,pagada",,,,,
+F-2025-0277,2025-01-08,distribuidora el sol sas,Insumos,849000,pendiente
+F-2025-0434,16-11-25,Aseo Total SAS  ,Mantenimiento,$399.000,anulada
+F-2025-0701,2025-12-24,CAFE DE LA MONTANA,Cafeteria,$639.000,Pendiente
+"F-2025-0024,2025-02-05,TecnoSoluciones LTDA,Tecnologia,""676,000"",pagada",,,,,
+"F-2025-0217,03/12/2025,Publicidad Creativa,Marketing,""12,028,400"",PAGADA",,,,,
+F-2025-0056,2025-01-19,Distribuidora El Sol SAS,Insumos,616000,pagada
+F-2025-0757,2025-01-05,Internet Rapido SA,,152000,pagada
+"F-2025-0485,""Oct 12, 2025"",Aseo Total SAS,Mantenimiento,$478.000,anulada",,,,,
+F-2025-0441,2025-04-11,Papeleria Central,Oficina,$13.067.400,anulada
+"F-2025-0371,""Mar 6, 2025"",TecnoSoluciones Ltda,Tecnologia,13088300,pendiente",,,,,
+F-2025-0064,03/08/2025,Ferreteria El Tornillo,Mantenimiento,11045200,pagada
+F-2025-0390,07/07/2025,Internet Rapido SA,Servicios,$422.000,pendiente
+F-2025-0616,2025-01-07,ASEO TOTAL SAS,Mantenimiento,7091400,
+F-2025-0033,2025-05-17,Publicidad Creativa,Marketing,$11.094.200,pendiente
+F-2025-0582,2025-05-03,TecnoSoluciones Ltda,Tecnologia,14099700,pagada
+"F-2025-0328,18-9-25,Distribuidora El Sol SAS,,""616,000"",PAGADA",,,,,
+F-2025-0219,2025-02-28,Aseo Total SAS,Mantenimiento,,Pendiente
+"F-2025-0656,2025-09-10,Aseo Total SAS,Mantenimiento,""4,042,900"",pagada",,,,,
+F-2025-0150,2025-12-04,Distribuidora El Sol SAS,INSUMOS,$8.017.400,Pendiente
+"F-2025-0482,""Feb 26, 2025"",TRANSPORTES ANDINOS,LOGISTICA,""763,000"",pagada",,,,,
+F-2025-0160,2025-12-06,Ferreteria El Tornillo,Mantenimiento,329000,pendiente
+F-2025-0559,18/01/2025,PUBLICIDAD CREATIVA,Marketing,$ 3040200,anulada
+F-2025-0040,2025-06-18,Ferreteria El Tornillo,Mantenimiento,4028100,pagada
+"F-2025-0466,2025-11-19,Aseo Total SAS  ,MANTENIMIENTO,""10,094,000"",pendiente",,,,,
+F-2025-0286,05/02/2025,DISTRIBUIDORA EL SOL SAS,Insumos,$512.000,anulada
+F-2025-0118,2025-02-10,TecnoSoluciones Ltda,Tecnologia,$11.049.200,
+"F-2025-0488,24/04/2025,Ferreteria El Tornillo,Mantenimiento,""577,000"",PAGADA",,,,,
+F-2025-0760,13/11/2025,Distribuidora El Sol SAS  ,Insumos,$ 282000,anulada
+F-2025-0720,23/11/2025,Papeleria Central  ,Oficina,$310.000,
+F-2025-0218,2025-06-27,Papeleria Central,Oficina,864000,anulada
+F-2025-0498,18/02/2025,Papeleria Central,Oficina,,pendiente
+F-2025-0619,10/10/2025,Cafe de la Montana,Cafeteria,7098400,anulada
+F-2025-0351,2025-02-27,Energia de Bogota,SERVICIOS,$460.000,pagada
+"F-2025-0325,01/09/2025,TECNOSOLUCIONES LTDA,,""7,046,100"",pagada",,,,,
+F-2025-0067,2025-04-23,TECNOSOLUCIONES LTDA,Tecnologia,$15.071.500,pagada
+F-2025-0337,07/11/2025,Ferreteria El Tornillo  ,Mantenimiento,1022400,anulada
+F-2025-0412,18-1-25,TecnoSoluciones Ltda,Tecnologia,291000,Pendiente
+F-2025-0205,01/07/2025,Publicidad Creativa,Marketing,$4.081.600,Pendiente
+F-2025-0444,25/12/2025,Papeleria Central,Oficina,,anulada
+F-2025-0407,2025-12-26,Papeleria Central,OFICINA,807000,pendiente
+F-2025-0111,22/06/2025,Energia de Bogota  ,Servicios,$10.016.200,pagada
+F-2025-0750,10/04/2025,INTERNET RAPIDO SA,Servicios,1090000,pagada
+F-2025-0185,2025-05-26,Papeleria Central,Oficina,$148.000,pendiente
+F-2025-0088,2025-10-07,Papeleria Central  ,Oficina,728000,pendiente
+"F-2025-0112,2025-10-28,Aseo Total SAS,Mantenimiento,""9,069,400"",PAGADA",,,,,
+"F-2025-0477,2025-01-02,Ferreteria El Tornillo,Mantenimiento,""2,081,100"",Pendiente",,,,,
+"F-2025-0548,""Dec 16, 2025"",Distribuidora El Sol SAS,Insumos,13082200 COP,PAGADA",,,,,
+F-2025-0658,2025-03-07,TecnoSoluciones Ltda,Tecnologia,145000,pendiente
+F-2025-0480,2025-02-26,Internet Rapido SA,Servicios,115000 COP,Pendiente
+"F-2025-0478,2025-12-19,Papeleria Central,Oficina,""13,066,900"",anulada",,,,,
+F-2025-0358,22/07/2025,Aseo Total SAS,Mantenimiento,$472.000,pagada
+F-2025-0096,2025-10-10,PUBLICIDAD CREATIVA,Marketing,14068100,anulada
+"F-2025-0686,2025-03-01,Transportes Andinos,Logistica,""317,000"",Pendiente",,,,,
+F-2025-0474,2025-06-22,Energia de Bogota,Servicios,,pagada
+"F-2025-0398,""Jun 1, 2025"",Internet Rapido SA,Servicios,901380000 COP,",,,,,
+F-2025-0229,2025-04-26,Publicidad Creativa,Marketing,$134.000,pagada
+F-2025-0075,2025-03-23,Cafe de la Montana,Cafeteria,814000,pagada
+"F-2025-0409,21-8-25,Distribuidora El Sol SAS,Insumos,""3,006,100"",PAGADA",,,,,
+F-2025-0584,2025-01-28,Distribuidora El Sol SAS,Insumos,169000,Pendiente
+F-2025-0163,2025-05-23,Papeleria Central,Oficina,5016300,pendiente
+F-2025-0385,23/08/2025,Internet Rapido SA,,17200000,pagada
+F-2025-0298,2025-03-04,FERRETERIA EL TORNILLO,MANTENIMIENTO,869000 COP,anulada
+F-2025-0108,2025-08-15,Ferreteria El Tornillo,MANTENIMIENTO,11031000,pagada
+F-2025-0159,18/11/2025,Distribuidora El Sol S.A.S,Insumos,59000,
+F-2025-0009,2025-08-17,PAPELERIA CENTRAL,Oficina,$ 11016300,pagada
+F-2025-0575,2025-07-16,INTERNET RAPIDO SA,Servicios,184000,Pendiente
+F-2025-0717,22/05/2025,Transportes Andinos,Logistica,$483.000,PAGADA
+"F-2025-0251,08/03/2025,cafe de la montana,Cafeteria,""14,081,600"",pagada",,,,,
