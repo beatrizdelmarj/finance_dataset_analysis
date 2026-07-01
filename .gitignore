@@ -10,9 +10,14 @@ venv/
 
 # Data files (keep code, not raw data)
 *.xlsx
-*LEARNING_GUIDE.md
-*RETO_SEMANA_1.md
-*CLAUDE.md
+vendors.csv
+employees.csv
+departments.csv
+
+# Claude Code & local docs (not for portfolio)
+CLAUDE.md
+LEARNING_GUIDE.md
+RETO_SEMANA_1.md
 
 # IDE
 .vscode/
