@@ -9,8 +9,10 @@ env/
 venv/
 
 # Data files (keep code, not raw data)
-*.csv
 *.xlsx
+*LEARNING_GUIDE.md
+*RETO_SEMANA_1.md
+*CLAUDE.md
 
 # IDE
 .vscode/
