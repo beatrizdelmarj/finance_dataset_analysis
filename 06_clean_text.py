@@ -36,3 +36,9 @@ status_mapping = {
 invoices['status'] = invoices['status'].replace(status_mapping)
 
 print(invoices['status'].nunique())
+
+# Saving changes in invoices_clean.csv
+
+invoices.to_csv('invoices_clean.csv', index=False)
+print(f"Saved: invoices_clean.csv - vendors normalized, status translated")
+
