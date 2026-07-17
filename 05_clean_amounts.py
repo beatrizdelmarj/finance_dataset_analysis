@@ -34,6 +34,7 @@ invoices['audit_flag'] =''
 invoices.loc[invoices['amount'] == invoices['amount'].max(), 'audit_flag'] = 'suspicious amount - pending audit'
 print(invoices[invoices['audit_flag'] != ''][['invoice_id', 'vendor', 'amount', 'audit_flag']])
 
+invoices.to_csv('invoices_clean.csv', index=False)
 
 #To see if there are , data values in amount column
 #print(invoices[invoices['amount'].str.contains(',', regex=False)]['amount'].head(10))
