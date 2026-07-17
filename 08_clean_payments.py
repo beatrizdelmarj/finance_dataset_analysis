@@ -55,27 +55,42 @@ payments_full['payment_date'] = pd.to_datetime(payments_full['payment_date'], fo
 print(payments_full['payment_date'].dtype)
 print(payments_full['payment_date'].head(10))
 
-#Checking there is not any NaT - Not a time - value or not parsed payment_dates
+# Checking there is not any NaT - Not a time - value or not parsed payment_dates
 print(f'total payment_dates null: {payments_full['payment_date'].isnull().sum()}')
+print(f"non-null después de strip: {payments_full['amount_paid'].notna().sum()}")
 
 ## Clean amount paid
 
-#Removing $ in amount_paid column from the DB
+# Converting amount_paid column to string first
+payments_full['amount_paid'] = payments_full['amount_paid'].astype(str).replace('nan', pd.NA)
+
+# Removing $ in amount_paid column from the DB
 payments_full['amount_paid'] = payments_full['amount_paid'].str.replace('$','', regex=False)
+print(f"non-null después de strip: {payments_full['amount_paid'].notna().sum()}")
 
-#Removing COP in amount_paid column from the DB
+# Removing COP in amount_paid column from the DB
 payments_full['amount_paid'] = payments_full['amount_paid'].str.replace('COP','', regex=False)
+print(f"non-null después de strip: {payments_full['amount_paid'].notna().sum()}")
 
-#Removing spaces in amount_paid column from the DB
+# Removing spaces in amount_paid column from the DB
 payments_full['amount_paid'] = payments_full['amount_paid'].str.replace(' ','', regex=False)
+print(f"non-null después de strip: {payments_full['amount_paid'].notna().sum()}")
 
-#Removing . in amount_paid column from DB
+# Removing . in amount_paid column from DB
 payments_full['amount_paid'] = payments_full['amount_paid'].str.replace('.','', regex=False)
+print(f"non-null después de strip: {payments_full['amount_paid'].notna().sum()}")
 
-#Removing , in amount_paid column from DB
+# Removing , in amount_paid column from DB
 payments_full['amount_paid'] = payments_full['amount_paid'].str.replace(',','', regex=False)
+print(f"non-null después de strip: {payments_full['amount_paid'].notna().sum()}")
 
-#Converting from string format to numeric format
+
+#Strings that could not be converted to a number amount_paid column
+no_convertibles = payments_full[pd.to_numeric(payments_full['amount_paid'], errors='coerce').isna() & payments_full['amount_paid'].notna()]
+print(f"Valores no convertibles: {len(no_convertibles)}")
+print(no_convertibles['amount_paid'].unique())
+
+# Converting from string format to numeric format
 payments_full['amount_paid'] = pd.to_numeric(payments_full['amount_paid'])
 
 # Using Int64 - type nullable pandas- for amount_paid column which has NaN values
