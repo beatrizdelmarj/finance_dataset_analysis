@@ -20,3 +20,13 @@ print(f"Pagos huérfanos: {len(huerfanos)}")
 resultado.to_csv('invoices_payments.csv', index=False)
 print(f"Saved: invoices_payments.csv — {len(resultado)} rows")
 
+# AP Aging — unpaid invoices (227 unpaid invoices)
+sin_pago = resultado[resultado['payment_id'].isna()]
+print(f"\n--- AP AGING REPORT ---")
+print(f"Unpaid invoices: {len(sin_pago)}")
+print(f"Total outstanding amount: {sin_pago['amount'].sum():,} COP")
+
+# Orphan payments total (64 orphan payments)
+huerfanos = payments[~payments['invoice_id'].isin(invoices['invoice_id'])]
+print(f"\nOrphan payments: {len(huerfanos)}")
+print(f"Total orphan amount: {huerfanos['amount_paid'].sum():,} COP")
