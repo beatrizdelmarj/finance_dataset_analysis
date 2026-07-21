@@ -2,15 +2,11 @@
 
 # Corporate Expense Analysis
 
-A Python/Pandas data cleaning and reconciliation project using corporate 
-invoice and payment records — built to demonstrate real-world financial 
-data preparation skills.
+A Python/Pandas data cleaning and reconciliation project using corporate invoice and payment records — built to demonstrate real-world financial data preparation skills.
 
 ## Project Overview
 
-This project cleans, reconciles, and analyzes two raw and inconsistent financial datasets 
-to answer a core accounts payable question: *What did we invoice, what did 
-we actually pay, and what's still outstanding?*
+This project cleans, reconciles, and analyzes two raw and inconsistent financial datasets to answer a core accounts payable question: *What did we invoice, what did we actually pay, and what's still outstanding?*
 
 ## Dataset
 
@@ -41,7 +37,6 @@ we actually pay, and what's still outstanding?*
 - **$4.8B COP invoiced vs $254M COP paid** — significant outstanding balance
 - **$968M COP outstanding** across 227 unpaid invoices
 - **$27.6M COP in orphan payments** — transfers with no matching invoice
-
 
 ## Tools & Technologies
 
