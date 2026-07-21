@@ -55,3 +55,25 @@ plt.tight_layout()
 plt.savefig('chart_ap_aging.png', dpi=150)
 print("Saved: chart_ap_aging.png")
 
+# Top Vendors chart
+
+vendors = pd.read_sql("""
+    SELECT vendor, SUM(amount) / 1000000.0 AS total_millions
+    FROM invoices
+    GROUP BY vendor
+    ORDER BY total_millions ASC
+""", conn)
+
+fig, ax = plt.subplots(figsize=(10, 6))
+colors = ['#e74c3c' if v == 'CAFE DE LA MONTANA' else 'steelblue' for v in vendors['vendor']]
+ax.barh(vendors['vendor'], vendors['total_millions'], color=colors)
+ax.set_title('Total Invoiced Amount by Vendor — 2025', fontsize=14)
+ax.set_xlabel('Amount (COP millions)')
+ax.axvline(x=400, color='gray', linestyle='--', alpha=0.5)
+
+plt.tight_layout()
+plt.savefig('chart_vendors.png', dpi=150)
+print("Saved: chart_vendors.png")
+
+conn.close()
+
