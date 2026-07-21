@@ -10,9 +10,9 @@ venv/
 
 # Data files (keep code, not raw data)
 *.xlsx
-vendors.csv
-employees.csv
-departments.csv
+*.csv
+*.db
+*.png
 
 # Claude Code & local docs (not for portfolio)
 CLAUDE.md
