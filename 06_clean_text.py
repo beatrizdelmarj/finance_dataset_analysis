@@ -37,6 +37,11 @@ invoices['status'] = invoices['status'].replace(status_mapping)
 
 print(invoices['status'].nunique())
 
+# Normalizing category column
+invoices['category'] = invoices['category'].str.strip()
+invoices['category'] = invoices['category'].str.title()
+
+
 # Saving changes in invoices_clean.csv
 invoices.to_csv('invoices_clean.csv', index=False)
 print(f"Saved: invoices_clean.csv - vendors normalized, status translated")
