@@ -38,6 +38,15 @@ This project cleans, reconciles, and analyzes two raw and inconsistent financial
 - **$968M COP outstanding** across 227 unpaid invoices
 - **$27.6M COP in orphan payments** — transfers with no matching invoice
 
+## Visualizations
+
+| Chart | Description |
+|---|---|
+| `chart_monthly_spending.png` | Monthly invoice totals — anomaly spike in Jun/Jul |
+| `chart_ap_aging.png` | AP Aging — $701M COP outstanding 90+ days |
+| `chart_vendors.png` | Top vendors — CAFE DE LA MONTANA flagged in red |
+
+
 ## Tools & Technologies
 
 - **Python 3.12 + Pandas 3.x** — data cleaning and reconciliation
