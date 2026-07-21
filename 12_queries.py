@@ -55,4 +55,36 @@ ORDER BY aging_bucket
 result3 = pd.read_sql(query3, conn)
 print(result3)
 
+# Payment methods breakdown
+query4 = """
+SELECT 
+    method,
+    COUNT(*) AS payment_count,
+    SUM(amount_paid) AS total_paid,
+    ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM payments), 1) AS pct_of_payments
+FROM payments
+WHERE method != 'UNKNOWN'
+GROUP BY method
+ORDER BY total_paid DESC
+"""
+
+# Note: UNKNOWN (77 payments, 13.6%) excluded — method pending treasury confirmation
+result4 = pd.read_sql(query4, conn)
+print(result4)
+
+# Monthly spending trend
+query5 = """
+SELECT 
+    SUBSTR(date, 1, 7) AS month,
+    COUNT(*) AS invoice_count,
+    SUM(amount) AS total_amount
+FROM invoices
+GROUP BY month
+ORDER BY month
+"""
+
+result5 = pd.read_sql(query5, conn)
+print(result5)
+
+
 conn.close()
